@@ -1,0 +1,13 @@
+.div {
+    font-size: 40px;
+    display: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+progress {
+    width: 300px;
+    height: 40px;
+}
